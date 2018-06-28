@@ -1,0 +1,52 @@
+{
+    "properties":[
+        {
+            "id": 1,
+            "name": "Casegrand the Address",
+            "location": "Adayar",
+            "apartment_type": "2 BHK",
+            "buildup_area": "559-1000",
+            "price": "88.5"
+        },
+        {
+            "id": 2,
+            "name": "Arun Excello",
+            "location": "Mugalivakam",
+            "apartment_type": "3 BHK",
+            "buildup_area": "1150-1500",
+            "price": "55.5"
+        },
+        {
+            "id": 3,
+            "name": "Appasamy Real Estate",
+            "location": "Porur",
+            "apartment_type": "2 BHK",
+            "buildup_area": "1000-1200",
+            "price": "88"
+        },
+        {
+            "id": 4,
+            "name": "Appasamy Real Estate",
+            "location": "Vadapani",
+            "apartment_type": "1 BHK",
+            "buildup_area": "555-855",
+            "price": "90"
+        },
+        {
+            "id": 5,
+            "name": "Casa Grande",
+            "location": "Mugalivakkam",
+            "apartment_type": "3 BHK",
+            "buildup_area": "1150-1500",
+            "price": "100"
+        },
+        {
+            "id": 6,
+            "name": "Arun Excello",
+            "location": "Guindy",
+            "apartment_type": "2 BHK",
+            "buildup_area": "1000-1150",
+            "price": "50"
+        }
+    ]
+}
